@@ -1,0 +1,7 @@
+{
+  "LDIM": {
+    "Notifications": {
+      "NoDeletePermission": "LD Inventory Move: You do not have permission to remove the item from its source actor."
+    }
+  }
+}
